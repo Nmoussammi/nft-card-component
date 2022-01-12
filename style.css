@@ -1,0 +1,105 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(215, 51%, 70%);
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.ima {
+  width: 352px;
+  border-radius: 10px;
+}
+.card {
+  background-color: hsl(216, 50%, 16%);
+  text-decoration: none;
+  margin-top: 13em !important;
+  margin-bottom: 1em !important;
+  margin: auto;
+  padding: 8.5em;
+  width: 10em;
+  height: 26em;
+  border-radius: 10px;
+}
+ 
+.card-body {
+  width: 10px;
+  text-align: center;
+  padding: 10em;
+  margin: -16em;
+  width: 10em;
+  position: relative;
+  cursor: pointer;
+
+}
+.card__icon--large {
+  font-size: 3rem;
+  height: 3rem;
+  margin-bottom: 3.5em;
+  margin-left: 3em;
+  margin-top: -6em;
+}
+
+img:hover {
+
+  opacity: 0.5;
+  transition: .3s ease-in-out;
+  
+}
+
+.txt {
+  color: hsl(215, 51%, 70%);
+  text-align: left !important;
+  margin: -5em !important;
+  padding-top: 6em;
+  font-size: 18px;
+}
+.txt2 {
+  color: hsl(178, 100%, 50%);
+  text-align: left !important;
+  margin: -5em !important;
+  padding-top: 6em;
+  font-size: 18px;
+}
+.back {
+  background-color: hsl(217, 54%, 11%);
+}
+.lft {
+  width: 20em;
+  text-align: right;
+  padding-top: 2.1em;
+}
+.icon {
+  padding-top: 2.4em !important;
+  padding-right: 9.4em !important;
+}
+
+.txt3 {
+  margin-top: -1.3em;
+  padding-left: 11.5em;
+  text-align: justify;
+
+  color: hsl(215, 51%, 70%);
+}
+.ligne {
+  padding-left: 21em !important;
+  margin-left: -5.5em;
+}
+.ima2 {
+  width: 3em;
+  margin-left: -6em;
+  border-radius: 10em;
+  margin-top: -0.5em;
+}
+.txt4 {
+  margin-top: -2.5em;
+  color: hsl(215, 51%, 70%);
+  margin-left: -2em;
+}
+.txt5:hover{
+ background-color: ; color: hsl(178, 100%, 50%);;
+}
+.icon2 {
+  margin: 0 10px 0 0;
+}
